@@ -4,7 +4,7 @@ Welcome to the [Hippocratic AI](https://www.hippocraticai.com) coding assignment
 
 ## Local Setup
 
-- cd into the directory `cd AI_agent_deployment_engineer_takehome/`
+- cd into the directory `cd storyteller`
 - create and activate a virtual environment (eg. `virtualenv env && source env/bin/activate`)
 - activate secrets `source secrets.sh`
 - run `pip install -r requirements.txt`
